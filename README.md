@@ -9,4 +9,4 @@ by the way: dezimal-degree-zu-utm.py = Dezimal Degree to UTM
 incoming
 
 ### MGRS Distance calculator 
-should work now, beside some small changes for a better usability
+under construction
